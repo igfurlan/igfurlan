@@ -1,7 +1,8 @@
 ### Igor Furlan
+**SRE at Red Hat · Kubestronaut**
 
-Site Reliability Engineer at **Red Hat**, based in Spain. I've spent around 12 years in IT,
-the last 8 keeping mission-critical systems running.
+Based in Spain. I've spent around 12 years in IT, the last 8 keeping mission-critical
+systems running.
 
 Outside work I run two labs on my own hardware and write up what the measurements show,
 including the results that proved me wrong.
