@@ -78,7 +78,7 @@ footer code{font-family:"JetBrains Mono",monospace; font-size:.9em}
     <div class="tile d"><div class="lockup">{{enso}}<span class="name n-enso">Igor Furlan</span></div></div>
   </div>
   <div class="below">
-    <div><p>A single-stroke Zen circle, left open, with a small red seal carrying the IF. It ties to <em>musashi</em>, your homelab (Miyamoto Musashi also painted ink circles), and to a bio you describe as a bit philosophical.</p>
+    <div><p>A single-stroke Zen circle, left open, with a small red seal carrying the IF. It ties to <em>musashi</em>, your homelab, named after the swordsman who was also an ink painter and wrote about "the Void", and to a bio you describe as a bit philosophical.</p>
     <p class="trade">The most personal and least technical option. Works best when the rest of the profile stays quiet.</p></div>
     <div class="sizes"><div class="av l s96">{{enso}}</div><div class="av d s40">{{enso}}</div><div class="av l s20">{{enso}}</div><div class="cap">96 · 40 · 20 px</div></div>
   </div>
