@@ -6,8 +6,7 @@
 <p><strong>Site Reliability · Kubernetes · Linux</strong><br>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/marks/tagline-dark.svg"><img src="assets/marks/tagline-light.svg" height="20" alt="living in the terminal, troubleshooting for fun"></picture></p>
 
-Based in Spain. I've spent around 12 years in IT, the last 8 keeping mission-critical
-systems running.
+I've spent around 12 years in IT, the last 8 keeping mission-critical systems running.
 
 Outside work I run two labs on my own hardware and write up what the measurements show,
 including the results that proved me wrong.
