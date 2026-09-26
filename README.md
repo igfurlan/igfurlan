@@ -22,7 +22,7 @@ llm-d. On identical traffic, prefix-aware routing beat round-robin on cache hit 
 
 ---
 
-**Certifications**: Kubestronaut · CKA · CKS · KCSA · Red Hat OpenShift: Advanced Application Management · GitLab Certified Associate
+**Certifications**: Kubestronaut · CKA · CKS · KCSA · Red Hat OpenShift: Advanced Application Management · GitLab Certified Associate · *previously held: Microsoft DevOps Engineer Expert · Azure Administrator Associate · HashiCorp Terraform Associate · Oracle Cloud Infrastructure Architect Associate*
 
 **Works with**: Kubernetes · OpenShift · Cilium · Gateway API · ArgoCD · Argo Rollouts · Helm · Kustomize · Prometheus · Grafana · Loki · Velero · Sealed Secrets · llm-d · vLLM · Linux (RHEL family)
 
