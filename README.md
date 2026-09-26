@@ -3,7 +3,7 @@
   <img src="assets/marks/enso-lockup-light.svg" height="72" alt="Igor Furlan">
 </picture>
 
-**SRE at Red Hat · Kubestronaut**
+**TSE at Red Hat · Kubestronaut**
 
 Based in Spain. I've spent around 12 years in IT, the last 8 keeping mission-critical
 systems running.
