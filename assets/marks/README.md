@@ -26,3 +26,13 @@ A monospace wordmark over a measuring scale, with a tick at 99.9.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="ruler-mark-dark.svg"><img src="ruler-mark-light.svg" height="88" alt="Error budget mark"></picture> &nbsp;&nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="ruler-lockup-dark.svg"><img src="ruler-lockup-light.svg" height="88" alt="Error budget lockup"></picture>
 
+## Files
+
+| Folder | Contents |
+|---|---|
+| `./` | SVG, for each design: `<name>-mark` (square) and `<name>-lockup` (mark and name), each in `-light` and `-dark` |
+| `png/` | The same 16 files as transparent PNGs, 512 px tall |
+| `avatar/` | 1024 × 1024 square avatars on a solid background, light and dark, sized to survive a circular crop |
+| `source/` | `gen.py` draws the marks, `export.py` converts the text to outlines and writes the themed SVGs, `options.html` is the original comparison page |
+
+`export.py` needs `fonttools` and the Google Fonts files for Sora, Shippori Mincho, Albert Sans and JetBrains Mono.
