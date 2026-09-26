@@ -20,6 +20,11 @@ backups.
 llm-d. On identical traffic, prefix-aware routing beat round-robin on cache hit ratio
 (84.8% vs 78.4%) at a 14% latency cost.
 
+**Selected write-ups**
+- [A benchmark that found nothing](https://igfurlan.github.io/k8s-portfolio/ai-lab/experiment/): why cache-aware routing first tied with round-robin, and the three conditions the test was missing.
+- [A feature that was on and doing nothing](https://igfurlan.github.io/k8s-portfolio/ai-lab/routing/): prefill/decode disaggregation reported as enabled for a day without splitting a single request.
+- [Canary deployments that roll themselves back](https://igfurlan.github.io/k8s-portfolio/gitops/overview/): Argo Rollouts promoting or aborting a release based on live Prometheus queries.
+
 ---
 
 **Certifications**: Kubestronaut · CKA · CKS · KCSA · Red Hat OpenShift: Advanced Application Management · GitLab Certified Associate · *previously held: Microsoft DevOps Engineer Expert · Azure Administrator Associate · HashiCorp Terraform Associate · Oracle Cloud Infrastructure Architect Associate*
